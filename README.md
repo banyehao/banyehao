@@ -25,10 +25,8 @@
 ## ✨ About Me | 关于我
 
 🎓 **PhD Student** in Information and Communication Engineering at **Beijing Jiaotong University**  
-📅 Expected Graduation: **June 2025**  
 
 🎓 **信息与通信工程博士研究生**，就读于 **北京交通大学**  
-📅 **预计毕业时间：2025年6月**  
 
 🔬 **Research Interests | 研究方向**:  
 - Multimedia Content Security | 多媒体内容安全  
@@ -42,29 +40,29 @@
 1. **X. Li**, X. Li, S. Hu, and Y. Zhao,  
    *Steganography-Enhanced Prediction-Error Expansion: A Novel Reversible Data Hiding Framework*,  
    IEEE Transactions on Circuits and Systems for Video Technology, 2024. *(IF=8.3, Q1)*  
-   [Paper Link](https://doi.org/10.1109/TCSVT.2024.XXXX) | [Code Repository](#)  
+   [Paper Link](https://doi.org/10.1109/TCSVT.2024.3495673) | [Code Repository](#)  
 
 2. **X. Li**, M. Xiao, X. Li, S. Xiang, and Y. Zhao,  
    *Matrix Embedding Based Multiple Histograms Modification for Efficient Reversible Data Hiding*,  
    IEEE Signal Processing Letters, 2024. *(IF=3.2, Q2)*  
-   [Paper Link](https://doi.org/10.1109/LSP.2024.XXXX) | [Code Repository](#)  
+   [Paper Link](https://doi.org/10.1109/LSP.2024.3455995) | [Code Repository](#)  
 
 3. **X. Li**, X. Li, M. Xiao, Y. Zhao, and H. Cho,  
    *High-Quality Reversible Data Hiding Based on Multi-Embedding for Binary Images*,  
    Mathematics, 2023. *(IF=2.3, Q3)*  
-   [Paper Link](https://www.mdpi.com/2227-7390/11/19/4111) | [Code Repository](#)  
+   [Paper Link](https://doi.org/10.3390/math11194111) | [Code Repository](#)  
 
 4. **X. Li**, X. Li, Y. Zhao, and H. Cho,  
    *Dual-domain Joint Optimization for Universal JPEG Steganography*,  
    Journal of Visual Communication and Image Representation, 2024. *(IF=2.6, Q4)*  
-   [Paper Link](https://doi.org/10.1016/j.jvcir.2024.XXXX) | [Code Repository](#)  
+   [Paper Link](https://doi.org/10.1016/j.jvcir.2024.104151) | [Code Repository](#)  
 
 ---
 
 ## 🛠 Skills | 技能
 
-- **Languages | 语言**: Python, MATLAB, C++  
-- **Tools | 工具**: Git, LaTeX, Adobe Photoshop  
+- **Languages | 语言**: MATLAB, C++  
+- **Tools | 工具**: Git, LaTeX
 - **Certifications | 认证**: CCF计算机职业资格认证（排名前9.32%）  
 
 欢迎浏览我的GitHub主页，未来将会上传更多与论文相关的代码和研究资料！  
